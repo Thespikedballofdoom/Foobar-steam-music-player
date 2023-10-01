@@ -1,7 +1,4 @@
 //needs to be loaded with javascript in SFP
-//Redefine this so its always our player
-let GetCommunityDiscussionForumsURL = function(){ return "http://:jart@localhost:8776/";};
-
 function Musicsupersize() {
 	if (window.name.includes("OverlayBrowser_Discussions")) {
 		console.log("we detected overlaybrowser_discussions, changing window size...");
