@@ -1,0 +1,11 @@
+/*add @import url(.THESPIKEDBALLOFDOOM_CUSTOM.css) to bundle.css*/
+.st-uitheme-dark{
+--color-text:#AAAAAA!important;
+--color-hover:#001122!important;
+--color-border:#303030!important;
+--color-spacer:##0c0c0c!important;
+--color-background:#000!important
+}
+.progress-bar-gauge {
+background:#222222!important
+}
